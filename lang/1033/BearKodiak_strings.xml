@@ -1,0 +1,98 @@
+<ZT2Strings>
+   <entityname>
+      <!--animal names-->
+      <BearKodiak>Kodiak Bear</BearKodiak>
+      <BearKodiak_stt>Kodiak bear</BearKodiak_stt>
+      <BearKodiak_lower>the kodiak bear</BearKodiak_lower>
+      <BearKodiak_ltt>
+         <color r="255" g="248" b="178">
+            <b>Kodiak Bear</b>
+         </color>
+         <br/>
+         Click to select and then place a kodiak bear, the biggest bear on the world.
+      </BearKodiak_ltt>
+         </entityname>
+        <zoopedia_bearkodiak>
+      <entry>Bear, Kodiak</entry>
+      <text>
+         <cell pady="0" width="1000"/>
+         <p/>
+         <cell width="260"/>
+         <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+            <cell width="600" padx="20" pady="20">
+               <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+                  <img src="entities/units/animals/BearKodiak/BearKodiak_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="16">
+                  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+               </cell>
+               <cell width="156"/>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Tundra<br/></color>
+                  <img src="ui/icon_biomes/icon_tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+               </cell>
+               <cell width="128">
+                  <color r="255" g="255" b="255">Alaska, Kodiak Island<br/></color>
+                  <img src="ui/icon_maplocations/Tundra_Alaska.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+               </cell>
+               <br/>
+               <cell width="284">
+                  <color r="255" g="255" b="255">Class: Mammals <i>(Mammalia)</i><br/>Order: Carnivores <i>(Carnivora)</i><br/>Family: Bears <i>(Ursidae)</i><br/>Genus: <i>Ursus</i><br/>Species:<i>arctos</i><br/>Subspecies:<i>middendorffi</i><br/>Conservation Status: <color r="255" g="204" b="51">Lower risk</color></color>
+               </cell>
+               <cell width="256" pady="10">
+                  <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+               </cell>
+            </cell>
+         </cell>
+         <p/>
+         <p/>
+         <cell width="260"/>
+         <cell width="300">
+            <cell width="64">
+               <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+            </cell>
+            <cell width="176">
+               <color r="255" g="255" b="255">
+                  <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Kodiak Bear Facts</font>
+               </color>
+            </cell>
+            <p/> 
+            <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+               <p/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Kodiak bears have black skin. 
+</color>
+               </cell>
+               <br/>
+               <cell width="32" pady="10">
+                  <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+               </cell>
+               <cell width="202" pady="10">
+                  <color r="255" g="255" b="255">Made by karlhall39</color>
+               </cell>
+            </cell>
+         </cell>
+         <cell width="340">
+            <color r="255" g="248" b="178">To unlock the kodiak bear in challenge or campaign games, you must earn a 3-star zoo fame rating for your zoo.</color>
+<p/>The kodiak bear, also known as the Alaskan Brown bear, can grow to be 10.5 feet long and can weigh up to 900 lbs. 
+
+
+<p/>The kodiak bear lives only in Alaska because it's cold there. The bear can eat just about anything in Alaska. The bear has a brown fluffy coat to keep it warm. It has large claws so it can catch fish and rip them apart. The bear also has large teeth for eating its food. 
+
+<p/>When the bear reproduces, it averages about 3-6 baby bears. The bears have a light brown strip coming from their throat going down to their stomach. When they mate the parents split up and the baby cub stays with the mother until it grows up. The brown bear has been almost eliminated in many parts of Europe. The bear lives in the Alaskan Mountains on Kodiak Island. The bear doesn't live in caves. It's sort of like a beaver. It makes its own home.
+
+
+         </cell>
+         <p/>
+         <cell width="260"/>
+         <cell width="620">Contributed By: Charles Joseph Jonkel <u><color r="255" g="231" b="135">Made by karlhall39, Recoloured and coded Animal by SilesianTomcat</color></u>
+         </cell>
+      </text>
+   </zoopedia_bearkodiak>
+</ZT2Strings>
